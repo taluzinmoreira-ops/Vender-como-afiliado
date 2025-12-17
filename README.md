@@ -39,3 +39,4 @@
   <p>Este site atua como afiliado. Os resultados podem variar de pessoa para pessoa.</p>
 </footer></body>
 </html>
+<a href="https://edzz.la/seulink" class="btn">QUERO EMAGRECER AGORA</a>
